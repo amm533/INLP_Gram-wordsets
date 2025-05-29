@@ -1,5 +1,5 @@
 # INLP_Gram-wordsets
-Word sets used in the development and experimentation of INLP-Gram.
+Word sets used in the development and experimentation of INLP-Gram (["Preserving Grammatical Gender when Debiasing Word Embeddings in Spanish"](url)).
 
 ## File Specification
 
