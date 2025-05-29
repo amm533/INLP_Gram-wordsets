@@ -1,6 +1,8 @@
 # INLP_Gram-wordsets
 Word sets used in the development and experimentation of INLP-Gram (["Preserving Grammatical Gender when Debiasing Word Embeddings in Spanish"](url)).
 
+To cite:
+
 [![DOI](https://zenodo.org/badge/992496442.svg)](https://doi.org/10.5281/zenodo.15544008)
 
 ## File Specification
