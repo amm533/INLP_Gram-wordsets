@@ -1,9 +1,23 @@
 # INLP_Gram-wordsets
+
+[![DOI](https://zenodo.org/badge/992496442.svg)](https://doi.org/10.5281/zenodo.15544008)
+
 Word sets used in the development and experimentation of INLP-Gram (["Preserving Grammatical Gender when Debiasing Word Embeddings in Spanish"](url)).
 
 To cite:
 
-[![DOI](https://zenodo.org/badge/992496442.svg)](https://doi.org/10.5281/zenodo.15544008)
+```
+
+@article{morote2025approach,
+  title={Preserving Grammatical Gender when Debiasing Word Embeddings in Spanish},
+  author={Mart{\'i}nez, Aitana Morote and Consuegra-Ayala, Juan Pablo and Lloret, Elena},
+  journal={Procesamiento del Lenguaje Natural},
+  volume={75},
+  pages={--},
+  year={2025}
+}
+
+```
 
 ## File Specification
 
