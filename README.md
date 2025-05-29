@@ -1,6 +1,8 @@
 # INLP_Gram-wordsets
 Word sets used in the development and experimentation of INLP-Gram (["Preserving Grammatical Gender when Debiasing Word Embeddings in Spanish"](url)).
 
+[![DOI](https://zenodo.org/badge/992496442.svg)](https://doi.org/10.5281/zenodo.15544008)
+
 ## File Specification
 
 * `ES`, `FR` and `VAL` folders divide the word sets that have been retrieved for each language (ES: Spanish, FR: French, VAL: Valencian). The same file structure and name concention has been respected for each folder. As the experimentation for French and Valencian is in course, the files of word sets for these languages are being updated and may be incomplete. The files in the Spanish folder represent the complete datasets used in the paper.
